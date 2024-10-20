@@ -7,7 +7,6 @@ Welcome to the WFA project! This is a responsive website page designed using HTM
 <ul>
   <li>Features</li>
   <li>Technologies Used</li>
-  <li>Getting Started</li>
 </ul>
 
 <h3>Features</h3>
