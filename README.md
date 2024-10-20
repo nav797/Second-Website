@@ -20,5 +20,5 @@ Welcome to the WFA project! This is a responsive website page designed using HTM
 <ul>
   <li>HTML5</li>
   <li>Tailwind CSS</li>
-  <li>JavaScript</li>
+  <li>JavaScript (ScrollReveal for animations)</li>
 </ul>
